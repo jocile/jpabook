@@ -14,3 +14,5 @@ Exemplo de Persistencia com JPA e Hibernate na prática das aulas
 ## Referência
 
 [![JLPS-13 - Persistencia - JPAHibernate na prática](http://img.youtube.com/vi/9TSSCCNXLJw/0.jpg)](https://www.youtube.com/watch?v=9TSSCCNXLJw)
+
+[Documentação Hibernate - EntityManager](https://docs.jboss.org/hibernate/jpa/2.2/api/javax/persistence/EntityManager.html)

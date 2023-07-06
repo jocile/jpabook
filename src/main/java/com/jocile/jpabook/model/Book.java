@@ -34,4 +34,10 @@ public class Book {
         this.title = title;
         author = "";
     }
+    
+    public Book(String title, String author) {
+        id = -1;
+        this.title = title;
+        this.author = author;
+    }
 }
